@@ -5,6 +5,5 @@ $(document).ready(function(){
       $("#text").text(upper);
 
       event.preventDefault();
-
   })
 })
